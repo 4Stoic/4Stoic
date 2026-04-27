@@ -1,18 +1,30 @@
-# 4Stoic
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=A855F7&vCenter=true&width=560&lines=code+%2F+systems+%2F+automation;python+%2F+typescript+%2F+javascript;react+%2F+node.js+%2F+sql;discord+tools+%2F+backend+logic" alt="typing animation" />
+<p align="center">
+  <img src="./assets/header.svg" alt="4Stoic header" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,45:2b0a42,50:a855f7,55:2b0a42,100:0d1117" alt="divider" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=A855F7&center=true&vCenter=true&width=620&lines=python+%2F+typescript+%2F+javascript;react+%2F+node.js+%2F+sql;clean+interfaces+%2F+backend+logic;discord+tools+%2F+automation+%2F+systems" alt="typing animation" />
+</p>
 
-I build clean interfaces, backend logic, Discord tools, automation, and small systems.
-
-<p align="left">
+<p align="center">
   <a href="https://lshub.pro"><img src="https://img.shields.io/badge/website-0d1117?style=flat-square&logo=googlechrome&logoColor=A855F7" alt="website" /></a>
   <a href="https://lshub.pro/stoic"><img src="https://img.shields.io/badge/profile-0d1117?style=flat-square&logo=vercel&logoColor=A855F7" alt="profile" /></a>
   <a href="https://github.com/4Stoic"><img src="https://img.shields.io/badge/github-0d1117?style=flat-square&logo=github&logoColor=ffffff" alt="github" /></a>
 </p>
+
+```txt
+stoic@ls:~$ whoami
+4Stoic
+
+stoic@ls:~$ focus
+code / systems / automation
+
+stoic@ls:~$ stack
+python / typescript / javascript
+react / node.js / sql
+```
+
+I build clean interfaces, backend logic, Discord tools, automation, and small systems.
 
 ---
 
@@ -26,6 +38,7 @@ I build clean interfaces, backend logic, Discord tools, automation, and small sy
 frontend   react / vite / tailwind
 backend    node.js / python / sql
 tools      git / github / vscode / powershell
+now        building LS systems
 ```
 
 <p align="left">
