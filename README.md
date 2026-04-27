@@ -32,6 +32,32 @@
 
 <br />
 <br />
+
+<table>
+<tr>
+<td align="center" width="33%">
+  <img src="https://img.shields.io/badge/FRONTEND-0b0610?style=for-the-badge&logo=react&logoColor=b76bff&labelColor=0b0610&color=1b0b2b" />
+  <br />
+  <sub>React · Vite · Tailwind</sub>
+</td>
+<td align="center" width="33%">
+  <img src="https://img.shields.io/badge/BACKEND-0b0610?style=for-the-badge&logo=nodedotjs&logoColor=b76bff&labelColor=0b0610&color=1b0b2b" />
+  <br />
+  <sub>Node.js · Python · SQL</sub>
+</td>
+<td align="center" width="33%">
+  <img src="https://img.shields.io/badge/SYSTEMS-0b0610?style=for-the-badge&logo=powershell&logoColor=b76bff&labelColor=0b0610&color=1b0b2b" />
+  <br />
+  <sub>Automation · Tooling · Ops</sub>
+</td>
+</tr>
+</table>
+
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&lines=%3E+building+interfaces+with+backend+logic;%3E+turning+manual+work+into+systems;%3E+shipping+cleaner%2C+faster%2C+better+tools" />
+
+<br />
 <br />
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=4Stoic&show_icons=true&hide_border=true&bg_color=050008&title_color=b76bff&text_color=f8f3ff&icon_color=b76bff&ring_color=b76bff" />
