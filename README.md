@@ -1,8 +1,10 @@
 # 4Stoic
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=A855F7&vCenter=true&width=540&lines=code+%2F+systems+%2F+automation;python+%2F+typescript+%2F+javascript;react+%2F+node.js+%2F+sql" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=A855F7&vCenter=true&width=560&lines=code+%2F+systems+%2F+automation;python+%2F+typescript+%2F+javascript;react+%2F+node.js+%2F+sql;discord+tools+%2F+backend+logic" alt="typing animation" />
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,45:2b0a42,50:a855f7,55:2b0a42,100:0d1117" alt="divider" />
 
 I build clean interfaces, backend logic, Discord tools, automation, and small systems.
 
@@ -26,6 +28,10 @@ backend    node.js / python / sql
 tools      git / github / vscode / powershell
 ```
 
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=900&color=8B5CF6&vCenter=true&width=520&lines=%3E+npm+run+dev;%3E+python+main.py;%3E+git+commit+-m+ship;%3E+status%3A+building" alt="terminal animation" />
+</p>
+
 ---
 
 <p align="center">
@@ -33,5 +39,5 @@ tools      git / github / vscode / powershell
 </p>
 
 <p align="center">
-  ⟡ code · systems · automation ⟡
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&pause=1400&color=A855F7&center=true&vCenter=true&width=420&lines=%E2%9F%A1+code+%C2%B7+systems+%C2%B7+automation+%E2%9F%A1;%E2%9F%A1+building+clean+tools+%E2%9F%A1" alt="footer animation" />
 </p>
