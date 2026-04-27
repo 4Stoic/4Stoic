@@ -1,24 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:050008,35:16051f,70:2b1240,100:08010d&text=4Stoic&fontColor=f7f2ff&fontSize=66&fontAlignY=43&desc=code%20%E2%80%A2%20systems%20%E2%80%A2%20automation&descSize=17&descAlignY=64" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:030006,25:09000f,55:1a0628,80:2c0b45,100:06000a&text=4Stoic&fontColor=f8f3ff&fontSize=74&fontAlignY=42&desc=code%20%E2%80%A2%20systems%20%E2%80%A2%20automation&descSize=18&descAlignY=63&animation=fadeIn" />
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1400&color=B26CFF&center=true&vCenter=true&width=540&lines=Python+%E2%80%A2+TypeScript+%E2%80%A2+JavaScript;React+%E2%80%A2+Node.js+%E2%80%A2+SQL;clean+code+%2F+dark+systems+%2F+useful+tools" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2600&pause=900&color=B76BFF&center=true&vCenter=true&width=720&lines=Python+%E2%80%A2+TypeScript+%E2%80%A2+JavaScript;React+%E2%80%A2+Node.js+%E2%80%A2+SQL;Dark+interfaces+%E2%80%A2+clean+systems+%E2%80%A2+useful+tools" />
+
+<br />
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:030006,35:2c0b45,50:b76bff,65:2c0b45,100:030006" />
 
 <br />
 <br />
 
 <a href="https://lshub.pro/stoic">
-  <img src="https://img.shields.io/badge/website-09020f?style=for-the-badge&logo=googlechrome&logoColor=b26cff&labelColor=09020f&color=1d0b2e" />
+  <img src="https://img.shields.io/badge/WEBSITE-09020f?style=for-the-badge&logo=googlechrome&logoColor=b76bff&labelColor=09020f&color=1b0b2b" />
 </a>
 <a href="https://github.com/4Stoic">
-  <img src="https://img.shields.io/badge/github-09020f?style=for-the-badge&logo=github&logoColor=f7f2ff&labelColor=09020f&color=1d0b2e" />
+  <img src="https://img.shields.io/badge/GITHUB-09020f?style=for-the-badge&logo=github&logoColor=f8f3ff&labelColor=09020f&color=1b0b2b" />
 </a>
 <a href="https://guns.lol/sythe.44">
-  <img src="https://img.shields.io/badge/profile-09020f?style=for-the-badge&logo=linktree&logoColor=b26cff&labelColor=09020f&color=1d0b2e" />
+  <img src="https://img.shields.io/badge/PROFILE-09020f?style=for-the-badge&logo=linktree&logoColor=b76bff&labelColor=09020f&color=1b0b2b" />
 </a>
 
+<br />
 <br />
 <br />
 
@@ -26,12 +32,19 @@
 
 <br />
 <br />
+<br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4Stoic&layout=compact&hide_border=true&bg_color=050008&title_color=b26cff&text_color=f7f2ff&icon_color=8b5cf6" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=4Stoic&show_icons=true&hide_border=true&bg_color=050008&title_color=b76bff&text_color=f8f3ff&icon_color=b76bff&ring_color=b76bff" />
+<img width="48%" src="https://streak-stats.demolab.com?user=4Stoic&hide_border=true&background=050008&ring=B76BFF&fire=B76BFF&currStreakLabel=F8F3FF&sideLabels=B76BFF&currStreakNum=F8F3FF&sideNums=F8F3FF&dates=9b8ca8" />
 
 <br />
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=95&section=footer&color=0:050008,45:16051f,75:2b1240,100:08010d" />
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=4Stoic&bg_color=050008&color=f8f3ff&line=b76bff&point=ffffff&area=true&area_color=2c0b45&hide_border=true&radius=12" />
+
+<br />
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:030006,35:09000f,70:2c0b45,100:06000a" />
 
 </div>
