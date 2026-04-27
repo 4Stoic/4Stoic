@@ -1,46 +1,37 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:ff4d9d,50:8b5cf6,100:111827&text=4Stoic&fontColor=ffffff&fontSize=56&fontAlignY=40&desc=building%20systems%20that%20actually%20work&descAlignY=60&descSize=15" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:ff4d9d,50:8b5cf6,100:0d1117&text=4Stoic&fontColor=ffffff&fontSize=64&fontAlignY=45&desc=code%20%2F%20systems%20%2F%20automation&descSize=18&descAlignY=65" />
 
 <br />
 
-[![Website](https://img.shields.io/badge/lshub.pro-111827?style=for-the-badge&logo=google-chrome&logoColor=ff4d9d)](https://lshub.pro/stoic)
-[![GitHub](https://img.shields.io/badge/github-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/4Stoic)
-[![Profile](https://img.shields.io/badge/sythe.44-111827?style=for-the-badge&logo=linktree&logoColor=8b5cf6)](https://guns.lol/sythe.44)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=FF4D9D&center=true&vCenter=true&width=520&lines=Full-stack+developer;Python+%E2%80%A2+TypeScript+%E2%80%A2+JavaScript;React+%E2%80%A2+Node.js+%E2%80%A2+SQL;Building+clean+and+useful+software" />
 
 <br />
 <br />
 
-### developer • systems • automation
-
-I build clean tools, Discord systems, dashboards, websites, and backend logic.
-
-<br />
-
-**focused on**
-
-clean interfaces · useful automation · reliable systems · performance · shipping properly
-
-<br />
-
-### stack
-
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB)
-![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
-![SQLite](https://img.shields.io/badge/SQLite-111827?style=flat-square&logo=sqlite&logoColor=3B82F6)
-![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032)
+<a href="https://lshub.pro/stoic">
+  <img src="https://img.shields.io/badge/website-0d1117?style=for-the-badge&logo=googlechrome&logoColor=ff4d9d" />
+</a>
+<a href="https://github.com/4Stoic">
+  <img src="https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" />
+</a>
+<a href="https://guns.lol/sythe.44">
+  <img src="https://img.shields.io/badge/profile-0d1117?style=for-the-badge&logo=linktree&logoColor=8b5cf6" />
+</a>
 
 <br />
 <br />
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=4Stoic&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff4d9d&text_color=e5e7eb&icon_color=8b5cf6" />
+<img src="https://skillicons.dev/icons?i=ts,js,py,react,nodejs,html,css,tailwind,vite,sqlite,postgres,git,github,vscode,powershell&theme=dark" />
 
 <br />
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:111827,50:8b5cf6,100:ff4d9d" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4Stoic&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff4d9d&text_color=e5e7eb&icon_color=8b5cf6" />
+
+<br />
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:0d1117,50:8b5cf6,100:ff4d9d" />
 
 </div>
