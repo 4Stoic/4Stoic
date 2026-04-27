@@ -1,15 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=270&color=0:020005,28:07000d,58:170522,82:2a0a3d,100:050008&text=4Stoic&fontColor=f6efff&fontSize=76&fontAlignY=42&desc=%E2%9F%A1%20code%20%E2%80%A2%20systems%20%E2%80%A2%20automation%20%E2%9F%A1&descSize=18&descAlignY=63&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=285&color=0:010004,22:06000b,50:12031d,74:2b0a42,100:050008&text=4Stoic&fontColor=f8f2ff&fontSize=80&fontAlignY=42&desc=%E2%9F%A1%20code%20%E2%80%A2%20systems%20%E2%80%A2%20automation%20%E2%9F%A1&descSize=18&descAlignY=63&animation=fadeIn" />
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=23&duration=2600&pause=900&color=A855F7&center=true&vCenter=true&width=780&lines=%E2%9C%A6+Python+%E2%80%A2+TypeScript+%E2%80%A2+JavaScript+%E2%9C%A6;%E2%97%88+React+%E2%80%A2+Node.js+%E2%80%A2+SQL+%E2%97%88;%E2%9F%A1+dark+interfaces+%2F+clean+systems+%2F+useful+tools+%E2%9F%A1" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=23&duration=2600&pause=900&color=A855F7&center=true&vCenter=true&width=820&lines=%E2%9C%A6+Python+%E2%80%A2+TypeScript+%E2%80%A2+JavaScript+%E2%9C%A6;%E2%97%88+React+%E2%80%A2+Node.js+%E2%80%A2+SQL+%E2%97%88;%E2%9F%A1+dark+interfaces+%2F+clean+systems+%2F+useful+tools+%E2%9F%A1" />
 
 <br />
 <br />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020005,35:2a0a3d,50:a855f7,65:2a0a3d,100:020005" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:010004,34:2b0a42,50:a855f7,66:2b0a42,100:010004" />
 
 <br />
 <br />
@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/PROFILE-09020f?style=for-the-badge&logo=vercel&logoColor=a855f7&labelColor=09020f&color=1b0b2b" />
 </a>
 <a href="https://github.com/4Stoic">
-  <img src="https://img.shields.io/badge/GITHUB-09020f?style=for-the-badge&logo=github&logoColor=f6efff&labelColor=09020f&color=1b0b2b" />
+  <img src="https://img.shields.io/badge/GITHUB-09020f?style=for-the-badge&logo=github&logoColor=f8f2ff&labelColor=09020f&color=1b0b2b" />
 </a>
 
 <br />
@@ -55,22 +55,22 @@
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=%3E+npm+run+dev;%3E+python+main.py;%3E+git+commit+-m+%22ship+it%22;%3E+building+interfaces+with+backend+logic;%3E+turning+manual+work+into+systems" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=780&lines=%3E+npm+run+dev;%3E+python+main.py;%3E+git+commit+-m+%22ship+it%22;%3E+building+interfaces+with+backend+logic;%3E+turning+manual+work+into+systems;%3E+status%3A+building" />
 
 <br />
 <br />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=4Stoic&show_icons=true&hide_border=true&bg_color=050008&title_color=a855f7&text_color=f6efff&icon_color=a855f7&ring_color=a855f7" />
-<img width="48%" src="https://streak-stats.demolab.com?user=4Stoic&hide_border=true&background=050008&ring=A855F7&fire=A855F7&currStreakLabel=F6EFFF&sideLabels=A855F7&currStreakNum=F6EFFF&sideNums=F6EFFF&dates=9b8ca8" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=4Stoic&show_icons=true&hide_border=true&bg_color=050008&title_color=a855f7&text_color=f8f2ff&icon_color=a855f7&ring_color=a855f7" />
+<img width="48%" src="https://streak-stats.demolab.com?user=4Stoic&hide_border=true&background=050008&ring=A855F7&fire=A855F7&currStreakLabel=F8F2FF&sideLabels=A855F7&currStreakNum=F8F2FF&sideNums=F8F2FF&dates=9b8ca8" />
 
 <br />
 <br />
 
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=4Stoic&bg_color=050008&color=f6efff&line=a855f7&point=ffffff&area=true&area_color=2a0a3d&hide_border=true&radius=12" />
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=4Stoic&bg_color=050008&color=f8f2ff&line=a855f7&point=ffffff&area=true&area_color=2b0a42&hide_border=true&radius=12" />
 
 <br />
 <br />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&section=footer&color=0:020005,35:07000d,70:2a0a3d,100:050008" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:010004,35:06000b,70:2b0a42,100:050008" />
 
 </div>
