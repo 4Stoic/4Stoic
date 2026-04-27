@@ -1,16 +1,24 @@
-<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#020005"/>
-      <stop offset="0.45" stop-color="#100318"/>
-      <stop offset="0.72" stop-color="#241037"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#010004"/>
+      <stop offset="0.34" stop-color="#090011"/>
+      <stop offset="0.68" stop-color="#241037"/>
       <stop offset="1" stop-color="#050008"/>
     </linearGradient>
-    <linearGradient id="line" x1="160" y1="0" x2="1040" y2="0" gradientUnits="userSpaceOnUse">
+
+    <linearGradient id="scan" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#a855f7" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#a855f7" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#a855f7" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="line" x1="150" y1="0" x2="1050" y2="0" gradientUnits="userSpaceOnUse">
       <stop stop-color="#2b0a42" stop-opacity="0"/>
       <stop offset="0.5" stop-color="#a855f7"/>
       <stop offset="1" stop-color="#2b0a42" stop-opacity="0"/>
     </linearGradient>
+
     <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="4" result="blur"/>
       <feMerge>
@@ -18,27 +26,63 @@
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" stroke="#a855f7" stroke-opacity="0.055"/>
+
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" stroke="#a855f7" stroke-opacity="0.05"/>
+    </pattern>
+
+    <pattern id="scanlines" width="8" height="8" patternUnits="userSpaceOnUse">
+      <path d="M0 0H8" stroke="#ffffff" stroke-opacity="0.035"/>
     </pattern>
   </defs>
 
-  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
-  <rect width="1200" height="300" rx="24" fill="url(#grid)"/>
-  <path d="M90 240 C260 180, 330 275, 500 210 S850 210, 1110 120" stroke="#a855f7" stroke-opacity="0.22" stroke-width="2"/>
-  <path d="M160 82H1040" stroke="url(#line)" stroke-width="2" filter="url(#glow)"/>
-  <path d="M160 218H1040" stroke="url(#line)" stroke-width="2" filter="url(#glow)"/>
+  <rect width="1200" height="320" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="26" fill="url(#grid)"/>
+  <rect width="1200" height="320" rx="26" fill="url(#scanlines)"/>
 
-  <g filter="url(#glow)" opacity="0.9">
-    <path d="M600 54L621 75L600 96L579 75L600 54Z" stroke="#a855f7" stroke-width="2"/>
-    <path d="M600 204L621 225L600 246L579 225L600 204Z" stroke="#a855f7" stroke-width="2"/>
-    <path d="M111 150L132 171L111 192L90 171L111 150Z" stroke="#7c3aed" stroke-width="2" opacity="0.65"/>
-    <path d="M1089 108L1110 129L1089 150L1068 129L1089 108Z" stroke="#7c3aed" stroke-width="2" opacity="0.65"/>
+  <circle cx="240" cy="160" r="185" fill="#7c3aed" opacity="0.09" filter="url(#softGlow)"/>
+  <circle cx="980" cy="150" r="210" fill="#a855f7" opacity="0.07" filter="url(#softGlow)"/>
+
+  <path d="M72 255 C220 178, 334 292, 514 224 S870 210, 1132 98" stroke="#a855f7" stroke-opacity="0.22" stroke-width="2"/>
+  <path d="M90 74 C240 124, 380 40, 554 88 S850 110, 1110 52" stroke="#8b5cf6" stroke-opacity="0.13" stroke-width="2"/>
+
+  <path d="M150 86H1050" stroke="url(#line)" stroke-width="2" filter="url(#glow)"/>
+  <path d="M150 235H1050" stroke="url(#line)" stroke-width="2" filter="url(#glow)"/>
+
+  <rect x="260" y="108" width="680" height="106" rx="18" fill="#030006" fill-opacity="0.33" stroke="#a855f7" stroke-opacity="0.18"/>
+
+  <g filter="url(#glow)">
+    <path d="M600 48L624 72L600 96L576 72L600 48Z" stroke="#a855f7" stroke-width="2"/>
+    <path d="M600 224L624 248L600 272L576 248L600 224Z" stroke="#a855f7" stroke-width="2"/>
+    <path d="M104 154L126 176L104 198L82 176L104 154Z" stroke="#7c3aed" stroke-width="2" opacity="0.7"/>
+    <path d="M1096 108L1118 130L1096 152L1074 130L1096 108Z" stroke="#7c3aed" stroke-width="2" opacity="0.7"/>
   </g>
 
-  <text x="600" y="146" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="70" font-weight="800" fill="#f8f2ff" letter-spacing="1">4Stoic</text>
-  <text x="600" y="184" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="19" font-weight="600" fill="#c4b5fd" letter-spacing="4">code · systems · automation</text>
+  <g opacity="0.75">
+    <path d="M321 160H382M818 160H879" stroke="#a855f7" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="300" cy="160" r="4" fill="#a855f7" filter="url(#glow)"/>
+    <circle cx="900" cy="160" r="4" fill="#a855f7" filter="url(#glow)"/>
+  </g>
 
-  <circle cx="214" cy="82" r="3" fill="#a855f7" filter="url(#glow)"/>
-  <circle cx="986" cy="218" r="3" fill="#a855f7" filter="url(#glow)"/>
+  <text x="600" y="154" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="76" font-weight="800" fill="#f8f2ff" letter-spacing="1.5">4Stoic</text>
+  <text x="600" y="194" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="600" fill="#c4b5fd" letter-spacing="5">code · systems · automation</text>
+
+  <rect x="0" y="0" width="180" height="320" fill="url(#scan)" opacity="0.12">
+    <animate attributeName="x" values="-220;1240" dur="5.8s" repeatCount="indefinite"/>
+  </rect>
+
+  <circle cx="214" cy="86" r="3" fill="#a855f7" filter="url(#glow)">
+    <animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="986" cy="235" r="3" fill="#a855f7" filter="url(#glow)">
+    <animate attributeName="opacity" values="1;0.35;1" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
 </svg>
