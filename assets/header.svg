@@ -1,0 +1,44 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020005"/>
+      <stop offset="0.45" stop-color="#100318"/>
+      <stop offset="0.72" stop-color="#241037"/>
+      <stop offset="1" stop-color="#050008"/>
+    </linearGradient>
+    <linearGradient id="line" x1="160" y1="0" x2="1040" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2b0a42" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#a855f7"/>
+      <stop offset="1" stop-color="#2b0a42" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#a855f7" stroke-opacity="0.055"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#grid)"/>
+  <path d="M90 240 C260 180, 330 275, 500 210 S850 210, 1110 120" stroke="#a855f7" stroke-opacity="0.22" stroke-width="2"/>
+  <path d="M160 82H1040" stroke="url(#line)" stroke-width="2" filter="url(#glow)"/>
+  <path d="M160 218H1040" stroke="url(#line)" stroke-width="2" filter="url(#glow)"/>
+
+  <g filter="url(#glow)" opacity="0.9">
+    <path d="M600 54L621 75L600 96L579 75L600 54Z" stroke="#a855f7" stroke-width="2"/>
+    <path d="M600 204L621 225L600 246L579 225L600 204Z" stroke="#a855f7" stroke-width="2"/>
+    <path d="M111 150L132 171L111 192L90 171L111 150Z" stroke="#7c3aed" stroke-width="2" opacity="0.65"/>
+    <path d="M1089 108L1110 129L1089 150L1068 129L1089 108Z" stroke="#7c3aed" stroke-width="2" opacity="0.65"/>
+  </g>
+
+  <text x="600" y="146" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="70" font-weight="800" fill="#f8f2ff" letter-spacing="1">4Stoic</text>
+  <text x="600" y="184" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="19" font-weight="600" fill="#c4b5fd" letter-spacing="4">code · systems · automation</text>
+
+  <circle cx="214" cy="82" r="3" fill="#a855f7" filter="url(#glow)"/>
+  <circle cx="986" cy="218" r="3" fill="#a855f7" filter="url(#glow)"/>
+</svg>
