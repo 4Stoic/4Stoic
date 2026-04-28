@@ -1,25 +1,31 @@
-<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="340" viewBox="0 0 1200 340" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#010004"/>
-      <stop offset="0.34" stop-color="#090011"/>
-      <stop offset="0.68" stop-color="#241037"/>
-      <stop offset="1" stop-color="#050008"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#010003"/>
+      <stop offset="0.36" stop-color="#07000d"/>
+      <stop offset="0.68" stop-color="#1b082c"/>
+      <stop offset="1" stop-color="#040006"/>
     </linearGradient>
 
-    <linearGradient id="scan" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#a855f7" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#a855f7" stop-opacity="0.8"/>
-      <stop offset="1" stop-color="#a855f7" stop-opacity="0"/>
-    </linearGradient>
+    <radialGradient id="bloodViolet" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 160) rotate(90) scale(230 560)">
+      <stop stop-color="#a855f7" stop-opacity="0.18"/>
+      <stop offset="0.55" stop-color="#6d28d9" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#020005" stop-opacity="0"/>
+    </radialGradient>
 
-    <linearGradient id="line" x1="150" y1="0" x2="1050" y2="0" gradientUnits="userSpaceOnUse">
+    <linearGradient id="line" x1="145" y1="0" x2="1055" y2="0" gradientUnits="userSpaceOnUse">
       <stop stop-color="#2b0a42" stop-opacity="0"/>
       <stop offset="0.5" stop-color="#a855f7"/>
       <stop offset="1" stop-color="#2b0a42" stop-opacity="0"/>
     </linearGradient>
 
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+    <linearGradient id="scan" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#a855f7" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#a855f7" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#a855f7" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
       <feGaussianBlur stdDeviation="4" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
@@ -27,62 +33,77 @@
       </feMerge>
     </filter>
 
-    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="12" result="blur"/>
+    <filter id="deepGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="14" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
 
-    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
-      <path d="M42 0H0V42" stroke="#a855f7" stroke-opacity="0.05"/>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" stroke="#a855f7" stroke-opacity="0.045"/>
     </pattern>
 
-    <pattern id="scanlines" width="8" height="8" patternUnits="userSpaceOnUse">
-      <path d="M0 0H8" stroke="#ffffff" stroke-opacity="0.035"/>
+    <pattern id="scanlines" width="7" height="7" patternUnits="userSpaceOnUse">
+      <path d="M0 0H7" stroke="#ffffff" stroke-opacity="0.028"/>
     </pattern>
   </defs>
 
-  <rect width="1200" height="320" rx="26" fill="url(#bg)"/>
-  <rect width="1200" height="320" rx="26" fill="url(#grid)"/>
-  <rect width="1200" height="320" rx="26" fill="url(#scanlines)"/>
+  <rect width="1200" height="340" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="28" fill="url(#bloodViolet)"/>
+  <rect width="1200" height="340" rx="28" fill="url(#grid)"/>
+  <rect width="1200" height="340" rx="28" fill="url(#scanlines)"/>
 
-  <circle cx="240" cy="160" r="185" fill="#7c3aed" opacity="0.09" filter="url(#softGlow)"/>
-  <circle cx="980" cy="150" r="210" fill="#a855f7" opacity="0.07" filter="url(#softGlow)"/>
+  <circle cx="235" cy="170" r="210" fill="#6d28d9" opacity="0.08" filter="url(#deepGlow)"/>
+  <circle cx="965" cy="155" r="245" fill="#a855f7" opacity="0.06" filter="url(#deepGlow)"/>
 
-  <path d="M72 255 C220 178, 334 292, 514 224 S870 210, 1132 98" stroke="#a855f7" stroke-opacity="0.22" stroke-width="2"/>
-  <path d="M90 74 C240 124, 380 40, 554 88 S850 110, 1110 52" stroke="#8b5cf6" stroke-opacity="0.13" stroke-width="2"/>
+  <path d="M76 272 C228 177, 336 304, 516 231 S882 212, 1128 88" stroke="#a855f7" stroke-opacity="0.18" stroke-width="2"/>
+  <path d="M88 76 C245 136, 384 36, 558 92 S853 118, 1112 48" stroke="#8b5cf6" stroke-opacity="0.13" stroke-width="2"/>
 
-  <path d="M150 86H1050" stroke="url(#line)" stroke-width="2" filter="url(#glow)"/>
-  <path d="M150 235H1050" stroke="url(#line)" stroke-width="2" filter="url(#glow)"/>
+  <path d="M145 88H1055" stroke="url(#line)" stroke-width="2" filter="url(#glow)"/>
+  <path d="M145 252H1055" stroke="url(#line)" stroke-width="2" filter="url(#glow)"/>
 
-  <rect x="260" y="108" width="680" height="106" rx="18" fill="#030006" fill-opacity="0.33" stroke="#a855f7" stroke-opacity="0.18"/>
+  <rect x="248" y="112" width="704" height="118" rx="18" fill="#030006" fill-opacity="0.38" stroke="#a855f7" stroke-opacity="0.16"/>
 
-  <g filter="url(#glow)">
-    <path d="M600 48L624 72L600 96L576 72L600 48Z" stroke="#a855f7" stroke-width="2"/>
-    <path d="M600 224L624 248L600 272L576 248L600 224Z" stroke="#a855f7" stroke-width="2"/>
-    <path d="M104 154L126 176L104 198L82 176L104 154Z" stroke="#7c3aed" stroke-width="2" opacity="0.7"/>
-    <path d="M1096 108L1118 130L1096 152L1074 130L1096 108Z" stroke="#7c3aed" stroke-width="2" opacity="0.7"/>
+  <g id="sigil" stroke="#a855f7" stroke-width="2" filter="url(#glow)" opacity="0.86">
+    <path d="M600 44L628 72L600 100L572 72L600 44Z"/>
+    <path d="M600 240L628 268L600 296L572 268L600 240Z"/>
+    <path d="M600 72V112M600 228V268" stroke-linecap="round"/>
+    <path d="M566 170H634M600 136V204" stroke-linecap="round"/>
+    <path d="M580 150L620 190M620 150L580 190" stroke-opacity="0.65"/>
+    <animate attributeName="opacity" values="0.55;0.95;0.55" dur="3.2s" repeatCount="indefinite"/>
   </g>
 
-  <g opacity="0.75">
-    <path d="M321 160H382M818 160H879" stroke="#a855f7" stroke-width="2" stroke-linecap="round"/>
-    <circle cx="300" cy="160" r="4" fill="#a855f7" filter="url(#glow)"/>
-    <circle cx="900" cy="160" r="4" fill="#a855f7" filter="url(#glow)"/>
+  <g stroke="#7c3aed" stroke-width="2" opacity="0.65" filter="url(#glow)">
+    <path d="M104 158L128 182L104 206L80 182L104 158Z"/>
+    <path d="M1096 104L1120 128L1096 152L1072 128L1096 104Z"/>
+    <path d="M104 132V232M1096 78V178" stroke-opacity="0.38"/>
+    <animate attributeName="opacity" values="0.35;0.75;0.35" dur="4.1s" repeatCount="indefinite"/>
   </g>
 
-  <text x="600" y="154" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="76" font-weight="800" fill="#f8f2ff" letter-spacing="1.5">4Stoic</text>
-  <text x="600" y="194" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="600" fill="#c4b5fd" letter-spacing="5">code · systems · automation</text>
+  <g opacity="0.72">
+    <path d="M318 170H382M818 170H882" stroke="#a855f7" stroke-width="2" stroke-linecap="round"/>
+    <path d="M337 154L362 170L337 186M863 154L838 170L863 186" stroke="#a855f7" stroke-opacity="0.46" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="300" cy="170" r="4" fill="#a855f7" filter="url(#glow)"/>
+    <circle cx="900" cy="170" r="4" fill="#a855f7" filter="url(#glow)"/>
+  </g>
 
-  <rect x="0" y="0" width="180" height="320" fill="url(#scan)" opacity="0.12">
-    <animate attributeName="x" values="-220;1240" dur="5.8s" repeatCount="indefinite"/>
+  <text x="600" y="164" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="78" font-weight="800" fill="#f8f2ff" letter-spacing="1.5">4Stoic</text>
+  <text x="600" y="205" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="600" fill="#c4b5fd" letter-spacing="5">code · systems · automation</text>
+
+  <rect x="0" y="0" width="160" height="340" fill="url(#scan)" opacity="0.1">
+    <animate attributeName="x" values="-220;1260" dur="6.2s" repeatCount="indefinite"/>
   </rect>
 
-  <circle cx="214" cy="86" r="3" fill="#a855f7" filter="url(#glow)">
-    <animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" repeatCount="indefinite"/>
+  <line x1="0" y1="170" x2="1200" y2="170" stroke="#a855f7" stroke-opacity="0.08">
+    <animate attributeName="opacity" values="0.02;0.11;0.02" dur="2.7s" repeatCount="indefinite"/>
+  </line>
+
+  <circle cx="214" cy="88" r="3" fill="#a855f7" filter="url(#glow)">
+    <animate attributeName="opacity" values="0.25;1;0.25" dur="2.4s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="986" cy="235" r="3" fill="#a855f7" filter="url(#glow)">
-    <animate attributeName="opacity" values="1;0.35;1" dur="2.4s" repeatCount="indefinite"/>
+  <circle cx="986" cy="252" r="3" fill="#a855f7" filter="url(#glow)">
+    <animate attributeName="opacity" values="1;0.25;1" dur="2.4s" repeatCount="indefinite"/>
   </circle>
 </svg>
