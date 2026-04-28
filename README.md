@@ -28,10 +28,6 @@
   <img width="920" src="./assets/terminal-card.svg" alt="terminal card" />
 </p>
 
-<p align="center">
-  clean interfaces · backend logic · discord tools · automation
-</p>
-
 ---
 
 ### Stack
@@ -45,3 +41,18 @@ frontend   react / vite / tailwind
 backend    node.js / python / sql
 tools      git / github / vscode / powershell
 now        building LS systems
+```
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=1000&color=FF0F5B&center=true&vCenter=true&width=500&lines=%3E+npm+run+dev;%3E+python+main.py;%3E+git+commit+-m+ship" alt="terminal animation" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=4Stoic&bg_color=000000&color=e6edf3&line=ff0f5b&point=ffffff&area=true&area_color=14050a&hide_border=true" alt="activity graph" />
+</p>
+
+<p align="center">
+  <sub>LS Network · code / systems / automation</sub>
+</p>
