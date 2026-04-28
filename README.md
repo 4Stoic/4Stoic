@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="760" src="./LSNetworkfulllogo.png" alt="LS Network" />
+  <img width="760" src="./LSNetworkfulllogo-ico.png" alt="LS Network" />
 </p>
 
 <p align="center">
