@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img width="520" src="./assets/horse-banner.svg" alt="animated horse banner" />
+  <img width="520" src="./horse.gif" alt="horse gif" />
 </p>
 
 <p align="center">
