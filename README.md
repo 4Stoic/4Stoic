@@ -30,6 +30,10 @@
   <img width="920" src="./assets/terminal-card.svg" alt="terminal card" />
 </p>
 
+<p align="center">
+  <img width="920" src="./assets/status-card.svg" alt="status card" />
+</p>
+
 ---
 
 ### Stack
