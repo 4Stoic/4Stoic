@@ -16,13 +16,39 @@
   <a href="https://github.com/4Stoic"><img src="https://img.shields.io/badge/github-000000?style=flat-square&logo=github&logoColor=ffffff&labelColor=000000" alt="github" /></a>
 </p>
 
+<p align="center">
+  <img width="920" src="./assets/terminal-card.svg" alt="terminal card" />
+</p>
+
+<p align="center">
+  I build clean interfaces, backend logic, Discord tools, automation, and small systems.
+</p>
+
+---
+
+### Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,react,nodejs,html,css,tailwind,vite,sqlite,postgres,git,github,vscode,powershell&theme=dark" alt="stack icons" />
+</p>
+
 ```txt
-stoic@ls:~$ whoami
-4Stoic
+frontend   react / vite / tailwind
+backend    node.js / python / sql
+tools      git / github / vscode / powershell
+now        building LS systems
+```
 
-stoic@ls:~$ focus
-code / systems / automation
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=900&color=FF0F5B&center=true&vCenter=true&width=560&lines=%3E+npm+run+dev;%3E+python+main.py;%3E+git+commit+-m+ship;%3E+status%3A+building" alt="terminal animation" />
+</p>
 
-stoic@ls:~$ stack
-python / typescript / javascript
-react / node.js / sql
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=4Stoic&bg_color=000000&color=e6edf3&line=ff0f5b&point=ffffff&area=true&area_color=14050a&hide_border=true" alt="activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&pause=1400&color=FF0F5B&center=true&vCenter=true&width=500&lines=LS+Network+%C2%B7+systems+%C2%B7+strategy+%C2%B7+scale;code+%C2%B7+systems+%C2%B7+automation" alt="footer animation" />
+</p>
