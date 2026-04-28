@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img width="520" src="./assets/horse-banner.svg" alt="animated horse banner" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=A855F7&center=true&vCenter=true&width=640&lines=python+%2F+typescript+%2F+javascript;react+%2F+node.js+%2F+sql;interfaces+%2F+backend+logic+%2F+automation;discord+tools+%2F+systems+%2F+ops" alt="typing animation" />
 </p>
 
