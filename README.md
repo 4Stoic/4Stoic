@@ -22,7 +22,9 @@
   </a>
 </p>
 
-<br>
+<p align="center">
+  <img width="920" src="./assets/divider.svg" alt="divider" />
+</p>
 
 <p align="center">
   <img width="920" src="./assets/terminal-card.svg" alt="terminal card" />
@@ -36,12 +38,9 @@
   <img src="https://skillicons.dev/icons?i=py,ts,js,react,nodejs,html,css,tailwind,vite,sqlite,postgres,git,github,vscode,powershell&theme=dark" alt="stack icons" />
 </p>
 
-```txt
-frontend   react / vite / tailwind
-backend    node.js / python / sql
-tools      git / github / vscode / powershell
-now        building LS systems
-```
+<p align="center">
+  <img width="920" src="./assets/stack-card.svg" alt="stack card" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=1000&color=FF0F5B&center=true&vCenter=true&width=500&lines=%3E+npm+run+dev;%3E+python+main.py;%3E+git+commit+-m+ship" alt="terminal animation" />
