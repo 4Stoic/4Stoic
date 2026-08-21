@@ -53,14 +53,6 @@
 ---
 
 <p align="center">
-  <strong><code>activity</code></strong>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=4Stoic&bg_color=000000&color=e6edf3&line=ff0f5b&point=ffffff&area=true&area_color=14050a&hide_border=true" alt="activity graph" />
-</p>
-
-<p align="center">
   <img width="920" src="./assets/divider.svg" alt="footer divider" />
 </p>
 
