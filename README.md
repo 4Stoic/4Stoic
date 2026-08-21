@@ -36,18 +36,18 @@
 
 ---
 
-### Stack
+### Systems Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,react,nodejs,html,css,tailwind,vite,sqlite,postgres,git,github,vscode,powershell&theme=dark" alt="stack icons" />
+  <img src="https://skillicons.dev/icons?i=ts,py,go,react,nextjs,nodejs,tailwind,postgres,redis,docker,linux,nginx,cloudflare,githubactions,git,github,vscode&theme=dark" alt="systems stack icons" />
 </p>
 
 <p align="center">
-  <img width="920" src="./assets/stack-card.svg" alt="stack card" />
+  <img width="920" src="./assets/stack-card.svg" alt="systems stack card" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=1000&color=FF0F5B&center=true&vCenter=true&width=520&lines=%3E+npm+run+dev;%3E+python+main.py;%3E+git+commit+-m+ship;%3E+currently%3A+building+LS+systems" alt="terminal animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=1000&color=FF0F5B&center=true&vCenter=true&width=650&lines=%3E+design+the+system;%3E+build+the+backend;%3E+ship+the+interface;%3E+deploy+the+stack;%3E+monitor+the+runtime" alt="terminal animation" />
 </p>
 
 ---
@@ -65,5 +65,5 @@
 </p>
 
 <p align="center">
-  <sub>LS Network · code / systems / automation</sub>
+  <sub>LS Network · systems / automation / operations</sub>
 </p>
