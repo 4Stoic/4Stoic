@@ -9,24 +9,26 @@
 <h1 align="center">4Stoic</h1>
 
 <p align="center">
-  I build and run the software behind <strong>LS Network</strong>.
+  building <strong>LS Network</strong> and whatever else i think would be useful.
 </p>
 
 <p align="center">
   <a href="https://4stoic.me">4stoic.me</a> ·
   <a href="https://lshub.pro">lshub.pro</a> ·
-  <a href="https://lshub.pro/stoic">profile</a>
+  <a href="https://lshub.pro/stoic">me</a>
 </p>
 
 ---
 
-Most of my work lives in private repositories.
+most of what i make is private, so my github is quieter than the amount of stuff i actually work on.
 
-I spend most of my time on backend systems, Discord tooling, deployment infrastructure, and the web apps around them. Current LS projects cover moderation, ticketing and payments, music, service monitoring, internal operations, and the public platform.
+usually i'm building discord bots, backend services, dashboards, random tools i wanted for myself, or fixing something on a server at a stupid time in the morning.
+
+right now most of that sits under LS — moderation, tickets, payments, music, monitoring, internal tooling and the sites around it.
 
 ```text
-TypeScript  Python  React  Node.js
-SQLite      Docker  Linux  Nginx  Cloudflare
+typescript / python / react / node
+sqlite / docker / linux / nginx / cloudflare
 ```
 
-I care more about software being reliable in production than making a long list of technologies look impressive.
+not really interested in collecting tech badges. if something does the job properly, i'll use it.
