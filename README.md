@@ -1,47 +1,32 @@
 <p align="center">
-  <img width="690" src="./LSNetworkfulllogo-ico.png" alt="LS Network" />
+  <img src="./LSNetworkfulllogo-ico.png" width="620" alt="LS Network" />
 </p>
 
 <p align="center">
-  <img width="520" src="./horse.gif" alt="4Stoic" />
+  <img src="./horse.gif" width="460" alt="4Stoic" />
+</p>
+
+<h1 align="center">4Stoic</h1>
+
+<p align="center">
+  I build and run the software behind <strong>LS Network</strong>.
 </p>
 
 <p align="center">
-  <code>systems / strategy / scale</code>
-</p>
-
-<p align="center">
-  <a href="https://lshub.pro">website</a> ·
-  <a href="https://lshub.pro/stoic">profile</a> ·
-  <a href="https://github.com/4Stoic">github</a>
-</p>
-
-<p align="center">
-  <img width="920" src="./assets/divider.svg" alt="" />
-</p>
-
-<p align="center">
-  <img width="920" src="./assets/terminal-card.svg" alt="4Stoic terminal card" />
-</p>
-
-<p align="center">
-  <img width="920" src="./assets/status-card.svg" alt="4Stoic status card" />
+  <a href="https://4stoic.me">4stoic.me</a> ·
+  <a href="https://lshub.pro">lshub.pro</a> ·
+  <a href="https://lshub.pro/stoic">profile</a>
 </p>
 
 ---
 
-<p align="center">
-  <code>systems stack</code>
-</p>
+Most of my work lives in private repositories.
 
-<p align="center">
-  <img width="920" src="./assets/stack-card.svg" alt="4Stoic systems stack" />
-</p>
+I spend most of my time on backend systems, Discord tooling, deployment infrastructure, and the web apps around them. Current LS projects cover moderation, ticketing and payments, music, service monitoring, internal operations, and the public platform.
 
-<p align="center">
-  <img width="920" src="./assets/divider.svg" alt="" />
-</p>
+```text
+TypeScript  Python  React  Node.js
+SQLite      Docker  Linux  Nginx  Cloudflare
+```
 
-<p align="center">
-  <sub>LS Network · systems / automation / operations</sub>
-</p>
+I care more about software being reliable in production than making a long list of technologies look impressive.
