@@ -1,0 +1,27 @@
+<svg width="1000" height="220" viewBox="0 0 1000 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bg" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(500 110) rotate(90) scale(110 500)">
+      <stop stop-color="#2a0820"/>
+      <stop offset="1" stop-color="#000"/>
+    </radialGradient>
+    <linearGradient id="line" x1="100" y1="0" x2="900" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff2d8d" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ff2d8d" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1000" height="220" rx="24" fill="url(#bg)"/>
+  <g opacity="0.24">
+    <path d="M0 44H1000M0 88H1000M0 132H1000M0 176H1000" stroke="#ff2d8d"/>
+    <path d="M100 0V220M200 0V220M300 0V220M400 0V220M500 0V220M600 0V220M700 0V220M800 0V220M900 0V220" stroke="#8b5cf6"/>
+  </g>
+  <path d="M40 174C150 80 248 199 352 103C452 12 553 191 657 83C752 -15 843 106 960 41" stroke="url(#line)" stroke-width="4" filter="url(#glow)"/>
+  <circle cx="657" cy="83" r="7" fill="#ff2d8d" filter="url(#glow)">
+    <animate attributeName="opacity" values=".35;1;.35" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+  <rect x="1" y="1" width="998" height="218" rx="23" stroke="#ffffff" stroke-opacity="0.08"/>
+</svg>
