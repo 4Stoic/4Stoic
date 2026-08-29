@@ -3,32 +3,43 @@
 </p>
 
 <p align="center">
-  <img src="./horse.gif" width="460" alt="4Stoic" />
+  <img src="./horse.gif" width="440" alt="4Stoic" />
 </p>
 
 <h1 align="center">4Stoic</h1>
 
 <p align="center">
-  building <strong>LS Network</strong> and whatever else i think would be useful.
+  i make stuff, break stuff, then make it better.
 </p>
 
 <p align="center">
   <a href="https://4stoic.me">4stoic.me</a> ·
-  <a href="https://lshub.pro">lshub.pro</a> ·
-  <a href="https://lshub.pro/stoic">me</a>
+  <a href="https://lshub.pro">LS Network</a> ·
+  <a href="https://lshub.pro/stoic">profile</a>
 </p>
 
 ---
 
-most of what i make is private, so my github is quieter than the amount of stuff i actually work on.
+### yo
 
-usually i'm building discord bots, backend services, dashboards, random tools i wanted for myself, or fixing something on a server at a stupid time in the morning.
+i'm stoic. most of my repos are private because nearly everything i build is tied into bigger projects.
 
-right now most of that sits under LS — moderation, tickets, payments, music, monitoring, internal tooling and the sites around it.
+most days i'm working on **LS Network**, discord bots, backend services, dashboards, random tools i wanted, or something on my server that definitely worked five minutes ago.
 
-```text
-typescript / python / react / node
-sqlite / docker / linux / nginx / cloudflare
+currently building stuff around moderation, tickets, payments, music, monitoring, internal tools and web apps.
+
+```txt
+> typescript / python / react / node
+> docker / linux / nginx / cloudflare
+> sqlite / apis / discord / too many terminals open
 ```
 
-not really interested in collecting tech badges. if something does the job properly, i'll use it.
+### currently
+
+```txt
+building    LS Network
+probably    rewriting something that already worked
+online      way too late
+```
+
+<sub>i don't really care about having the longest stack. i just use whatever makes sense and ship it.</sub>
