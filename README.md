@@ -1,23 +1,25 @@
 <p align="center">
-  <img src="./assets/neon-wave.svg" width="920" alt="" />
+  <a href="https://4stoic.me">
+    <img src="./horse.gif" width="520" alt="" />
+  </a>
 </p>
+
+<br>
+
+<p align="center">
+  <img src="./assets/neon-wave.svg" width="880" alt="" />
+</p>
+
+<br>
 
 <p align="center">
   <a href="https://lshub.pro">
-    <img src="./LSNetworkfulllogo-ico.png" width="640" alt="" />
+    <img src="./LSNetworkfulllogo-ico.png" width="560" alt="" />
   </a>
 </p>
 
-<p align="center">
-  <img src="./assets/neon-grid.svg" width="920" alt="" />
-</p>
+<br>
 
 <p align="center">
-  <a href="https://4stoic.me">
-    <img src="./horse.gif" width="500" alt="" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="./assets/neon-wave.svg" width="920" alt="" />
+  <img src="./assets/neon-grid.svg" width="900" alt="" />
 </p>
